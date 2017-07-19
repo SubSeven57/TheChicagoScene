@@ -14,6 +14,7 @@ Just included the one(s) that stuck, even if just for a show
 * **Members (Optional)**: `Member Name/Role in the Project` format please. Include only **current** members.
 * **Status**: Still together? Hiatus? What's up with you guys?
 * **Location**: This one is important. What part of the city are you in? I'm looking for neighbourhoods. I'm also gonna stretch the borders of the city *juuuuuust* a bit. Mainly because I've seen a ton of suburban bands actually coming in to the city to perform. So, if you are in the surrounding suburbs, I *guess* you can consider yourself a Chicago local band.
+
 * **Logo (Optional)**: If you have a logo, please include it. The image must be a max of 250px x 250px in PNG format.
 * **Link To Your Music**: This is the one requirement I am gonna be super strict on. ***YOU HAVE TO HAVE SOME MUSIC***. This can be your shitty demo you put together with a Rock Band microphone and threw on BandCamp, or a potato-quality recording of your band's first performance from 2010 that was uploaded to YouTube. I honestly don't care how you got it recorded. What matters is that you have something recorded. Claiming you are musical act without music is what I like to call a *cloud act*. A lot of mass (ideas) and no substance to back them.
 
