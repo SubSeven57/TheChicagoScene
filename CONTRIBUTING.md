@@ -9,7 +9,9 @@ Now, to be included, please check the requirements first. These aren't *too* dem
 * **Name**: This is the name of your project. Your project must have settled on a single name. If you want to, you can include previous names you **performed** under. Notice the emphasis on
 performance. The average band goes through a dozen changes before their first show. Just included the one(s) that stuck, even if just for a show
 
-* **Genre**: Ah, the fun requirement. How does your project self-identify? You can be as super specific or non-specific as you want. Please note that on the master list of bands, I will most likely list projects with two genre tags: self-identifying and one that matches the tonality of the music, assigned by me.
+* **Logo (Optional)**: If you have a logo, please include it. The image must be a max of 250px x 250px in PNG format.
+
+* **Genre**: Ah, the fun requirement. How does your project self-identify? You can be as super specific or non-specific as you want.
 
 * **Year Established**: What year did the project officially begin? But I mean, like, *really* begin. I know most bands and projects want to establish seniority by saying "yeah dude, I've been doing this since forever", but be honest as to when you think the project started.
 
@@ -17,11 +19,9 @@ performance. The average band goes through a dozen changes before their first sh
 
 * **Status**: Still together? Hiatus? What's up with you guys?
 
-* **Signed**: Have you made it?
+* **Signed**: Are you currently signed to a majour label or are you still independent?
 
 * **Location**: This one is important. Where are you in the country? Please do `State/City or Suburb/` format.
-
-* **Logo (Optional)**: If you have a logo, please include it. The image must be a max of 250px x 250px in PNG format.
 
 * **Link To Your Music**: This is the one requirement I am gonna be super strict on. ***YOU HAVE TO HAVE SOME MUSIC***. This can be your crappy demo you put together with a Rock Band microphone and threw on BandCamp, or a potato-quality recording of your band's first performance from 2010. I honestly don't care how you got it recorded. What matters is that you have _something_ recorded. Claiming you are musical act without music is what I like to call a *cloud act*. A lot of mass (ideas) and no substance to back them.
 
