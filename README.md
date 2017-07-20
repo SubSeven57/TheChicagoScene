@@ -42,4 +42,4 @@ Any changes to this template will be first presented as an issue in order to get
 
 Thank you for reading this far! :smile:
 
-# Remember to keep your local music scene alive!
+# Remember to keep your local music scene alive! 🤘
