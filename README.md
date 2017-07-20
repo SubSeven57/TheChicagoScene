@@ -7,7 +7,7 @@ My name is Daniel and I am a developer as well as a musician involved in the Chi
 I wanted to do this because there's a lot of undiscovered talent and wanted to create a place where people could come to find something new. I personally love finding out about emerging musicians and there really hasn't a centralized place where I could just go to do so.
 
 Until now!
-You can go check out [LIST.md](placeholder) to see the master list. I just started to repo, so there won't be a lot of content. Thankfully, **you** can contribute! Keep reading to learn how. Be sure to also read [CONTRIBUTING.md](https://github.com/SubSeven57/TheLocalScene/blob/master/CONTRIBUTING.md) for full requirements!
+You can go check out [LIST.md](https://github.com/SubSeven57/TheLocalScene/blob/master/LIST.MD) to see the master list. I just started to repo, so there won't be a lot of content. Thankfully, **you** can contribute! Keep reading to learn how. Be sure to also read [CONTRIBUTING.md](https://github.com/SubSeven57/TheLocalScene/blob/master/CONTRIBUTING.md) for full requirements!
 
 # What is a "local act?" 🤔
 Every musical act starts out local; you'll find them at your nearest venue or open mic. When I say "local act", I'm talking about musical acts that really haven't gotten a lot of exposure.
