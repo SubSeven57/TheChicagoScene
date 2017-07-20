@@ -25,12 +25,15 @@ performance. The average band goes through a dozen changes before their first sh
 
 * **Link To Your Music**: This is the one requirement I am gonna be super strict on. ***YOU HAVE TO HAVE SOME MUSIC***. This can be your crappy demo you put together with a Rock Band microphone and threw on BandCamp, or a potato-quality recording of your band's first performance from 2010. I honestly don't care how you got it recorded. What matters is that you have _something_ recorded. Claiming you are musical act without music is what I like to call a *cloud act*. A lot of mass (ideas) and no substance to back them.
 
+* **Link To Other Media**: Have a website? Link it here!
+
+* **Bio (Optional but highly encouraged)**: Tell us a little about your band. What do you guys sound like? Why should people check you out? If you want people to engage with your music, you have to make an impression.  
+
 As of right now, this is about it. I might add more requirements later, but they will be posted as issues first to see what people say.
 
 Please note we have a code of conduct, please follow it in all your activities with the project.
 
-* **Link To Other Media**: Have a website? Link it here!
-***
+---
 
 ## Pull Request Process
 
