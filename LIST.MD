@@ -1,5 +1,5 @@
 # The Ardent
-**Logo**: ![](https://i.imgur.com/CLgVlHa.png=250x250)
+**Logo**: ![](https://i.imgur.com/CLgVlHa.png | width=250 height=250)
 **Genre**: Metalcore <br/>
 **Year Established**: 2010 <br />
 **Members**: Abel (Guitar), Andy (Drums), Angel (Guitar), Daniel (Bass), Jose (Lead Vocals)  <br/>
