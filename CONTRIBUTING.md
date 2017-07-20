@@ -17,16 +17,19 @@ performance. The average band goes through a dozen changes before their first sh
 
 * **Status**: Still together? Hiatus? What's up with you guys?
 
+* **Signed**: Have you made it?
+
 * **Location**: This one is important. Where are you in the country? Please do `State/City or Suburb/` format.
 
 * **Logo (Optional)**: If you have a logo, please include it. The image must be a max of 250px x 250px in PNG format.
 
-* **Link To Your Music**: This is the one requirement I am gonna be super strict on. ***YOU HAVE TO HAVE SOME MUSIC***. This can be your shitty demo you put together with a Rock Band microphone and threw on BandCamp, or a potato-quality recording of your band's first performance from 2010. I honestly don't care how you got it recorded. What matters is that you have _something_ recorded. Claiming you are musical act without music is what I like to call a *cloud act*. A lot of mass (ideas) and no substance to back them.
+* **Link To Your Music**: This is the one requirement I am gonna be super strict on. ***YOU HAVE TO HAVE SOME MUSIC***. This can be your crappy demo you put together with a Rock Band microphone and threw on BandCamp, or a potato-quality recording of your band's first performance from 2010. I honestly don't care how you got it recorded. What matters is that you have _something_ recorded. Claiming you are musical act without music is what I like to call a *cloud act*. A lot of mass (ideas) and no substance to back them.
 
 As of right now, this is about it. I might add more requirements later, but they will be posted as issues first to see what people say.
 
 Please note we have a code of conduct, please follow it in all your activities with the project.
 
+* **Link To Other Media**: Have a website? Link it here!
 ***
 
 ## Pull Request Process
@@ -34,4 +37,4 @@ Please note we have a code of conduct, please follow it in all your activities w
 1. I'll verify that all requirements are met. That's pretty much it. If you left me somewhere to contact you, I'll give you a ping.
 
 ## Code of Conduct
-Please read COC.md
+Please read `COC.md`
